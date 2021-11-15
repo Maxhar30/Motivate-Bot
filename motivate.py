@@ -5,7 +5,7 @@ import time
 import json
 import requests
 
-url = "https://www.reddit.com/r/botEverywhere/new.json?sort=new"
+url = "https://www.reddit.com/r/Your Community Name/new.json?sort=new"
 quote = "https://api.quotable.io/random"
 post = []
 commented_post = []
